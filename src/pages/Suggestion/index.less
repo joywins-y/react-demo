@@ -1,0 +1,26 @@
+.labelcontent {
+  color: rgba(0, 0, 0, 85%);
+  font-size: 14px;
+  text-align: left;
+}
+
+.labelcontent::before {
+  display: inline-block;
+  margin-right: 4px;
+  color: #f5222d;
+  font-size: 14px;
+  font-family: SimSun, sans-serif;
+  line-height: 1;
+  content: '*';
+}
+
+/* tile uploaded pictures */
+.comment-action {
+  padding-left: 8px;
+  cursor: 'auto';
+}
+
+[class*='-col-rtl'] .comment-action {
+  padding-right: 8px;
+  padding-left: 0;
+}
