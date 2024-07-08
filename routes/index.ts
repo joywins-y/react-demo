@@ -23,4 +23,9 @@ export default [
     path: '/nesting',
     component: './NestingForm',
   },
+  {
+    name: '反馈列表',
+    path: '/suggestion',
+    component: './Suggestion',
+  },
 ];

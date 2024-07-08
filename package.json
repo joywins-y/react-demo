@@ -13,6 +13,9 @@
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "@ant-design/pro-components": "^2.7.10",
+    "@ant-design/pro-descriptions": "^2.5.45",
+    "@ant-design/pro-table": "^3.16.1",
+    "@emotion/css": "^11.11.2",
     "@umijs/max": "^4.2.11",
     "antd": "^5.18.1",
     "axios": "^1.7.2"
